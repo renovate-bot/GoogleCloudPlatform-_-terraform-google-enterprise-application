@@ -64,9 +64,9 @@ grpcio==1.66.1 \
     # via
     #   grpcio-reflection
     #   grpcio-tools
-grpcio-reflection==1.66.1 \
-    --hash=sha256:bbac3c644d34647fbbec9696904008ba3eef354c2168315fe27a8a52ae79dec6 \
-    --hash=sha256:dbc39d2ccce82bf13046b145b97bc9542b3b26419a848ae64a5b72634ded14ca
+grpcio-reflection==1.74.0 \
+    --hash=sha256:ad1c4e94185f6def18f298f40f719603118f59d646939bb827f7bc72400f9ba0 \
+    --hash=sha256:c7327d2520dcdac209872ebf57774c3239646dad882e4abb4ad7bebccaca2c83
     # via -r ./requirements.in
 grpcio-tools==1.66.1 \
     --hash=sha256:0067e79b6001560ac6acc78cca11fd3504fa27f8af46e3cdbac2f4998505e597 \
