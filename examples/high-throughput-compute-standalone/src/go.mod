@@ -3,7 +3,7 @@ module github.com/GoogleCloudPlatform/finance-research-risk-examples/examples/ri
 go 1.24
 
 require (
-	cloud.google.com/go/compute/metadata v0.7.0
+	cloud.google.com/go/compute/metadata v0.8.0
 	cloud.google.com/go/storage v1.55.0
 	github.com/schollz/progressbar/v3 v3.18.0
 	github.com/spf13/cobra v1.9.1
