@@ -12,7 +12,7 @@ require (
 	github.com/jhump/protoreflect v1.17.0
 	github.com/spf13/cobra v1.9.1
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/contrib/detectors/gcp v1.37.0
+	go.opentelemetry.io/contrib/detectors/gcp v1.38.0
 	go.opentelemetry.io/otel v1.37.0
 	go.opentelemetry.io/otel/bridge/opencensus v1.37.0
 	go.opentelemetry.io/otel/sdk v1.37.0
