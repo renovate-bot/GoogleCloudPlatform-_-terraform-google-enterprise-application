@@ -5,7 +5,7 @@ toolchain go1.24.5
 
 require (
 	cloud.google.com/go/compute/metadata v0.7.0
-	cloud.google.com/go/pubsub v1.49.0
+	cloud.google.com/go/pubsub v1.50.1
 	cloud.google.com/go/storage v1.55.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.53.0
 	github.com/bufbuild/protocompile v0.14.1
