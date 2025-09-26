@@ -1,7 +1,8 @@
 module github.com/GoogleCloudPlatform/finance-research-risk-examples/examples/risk/agent
 
 go 1.24
-toolchain go1.24.1
+
+toolchain go1.24.7
 
 require (
 	cloud.google.com/go/compute/metadata v0.5.2
