@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM python:3.12
+FROM python:3.14
 
 # Update
 RUN apt-get update && \
