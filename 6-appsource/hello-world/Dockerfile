@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM golang:1.24@sha256:db5d0afbfb4ab648af2393b92e87eaae9ad5e01132803d80caef91b5752d289c as builder
+FROM golang:1.24@sha256:e3fb71a958a346439626e5796d79749c7ed22e61f09f078f434486015285f432 as builder
 WORKDIR /code
 COPY main.go .
 COPY go.mod .
